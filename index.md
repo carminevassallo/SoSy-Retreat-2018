@@ -12,6 +12,10 @@ You can reach the venue from the Malaga Airport by:
 - _**Bus.**_ Take the A bus having "Paseo del Parque" as destination. After 9 stops, get off at Estación de Autobuses de Málaga and walk for 7 minutes to the hotel. The journey takes about 30 minutes.
 - _**Taxi.**_ Taking a taxi you are able to arrive at the venue in 14-24 minutes, depending on the traffic.
 
+### Preparation
+
+Please, consult [this page](/preparation.md) for details about the preparation for the retreat
+
 ### Day 1 (Setup)
 
 The “Setup” will take on the first day. Whoever is there (mostly SEALs) will start with a joined lunch before we kick-off the retreat with an initial warm-up session, in which we will ultimately design the session topics for the second day. To be fair towards all students, we decided that we don’t want to do a simple voting for the session topics, but we want to give everybody the opportunity to discuss his/her topics, so we will start by collecting all topic ideas and then do a fun card sorting exercise to find good session topics. People that are not yet around on Tuesday can submit their proposals before the retreat. Each session will be lead by some PhD students that have fitting topics.
