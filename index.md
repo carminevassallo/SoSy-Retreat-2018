@@ -6,6 +6,8 @@ In this page, you can find practical information about how to reach the venue of
 
 The Sosy Retreat 2018 will be held at the Tryp Malaga Alameda Hotel (Avda de la Aurora, 31) in Malaga (Spain). The hotel is very well located, being close to the harbor, the historic center, and the Picasso Museum.
 
+[Directions to the hotel](https://www.google.com/maps/place/Av.+de+la+Aurora,+31,+29002+M%C3%A1laga,+Spain/@36.7159315,-4.4350577,17z/data=!3m1!4b1!4m5!3m4!1s0xd72f79959a41a5d:0x3c257206844385a4!8m2!3d36.7159272!4d-4.432869)
+
 You can reach the venue from the Malaga Airport by:
 
 - _**Train.**_ Take the C1 train having "Centro Alameda" as destination ("destino" in spanish). After 3 stops, get off at Málaga Centre Mall and walk for 7 minutes to the hotel. Estimated time: 20 minutes.
