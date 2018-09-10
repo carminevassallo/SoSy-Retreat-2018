@@ -36,7 +36,7 @@ Friday is ZEST day, because most SEALs will be gone. The first session will be a
 
 ### The whole picture
 
-
+![Image](/schedule.png)
 
 
 
