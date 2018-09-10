@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to the Sosy Retreat 2018 Page
 
-You can use the [editor on GitHub](https://github.com/carminevassallo/sosyretreat/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In this page, you can find practical information about how to reach the venue of our retreat and our agenda.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Venue
+
+The Sosy Retreat 2018 will be held at the Tryp Malaga Alameda Hotel (Avda de la Aurora, 31) in Malaga (Spain). The hotel is very well located: it is close to the harbor, the historic center, and the Picasso Museum.
+
+### Day 1
+
+### Day 2
+
+### Day 3
+
+### The whole picture
+
+
+
+
 
 ### Markdown
 
