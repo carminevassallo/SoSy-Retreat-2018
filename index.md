@@ -4,7 +4,7 @@ In this page, you can find practical information about how to reach the venue of
 
 ### Venue
 
-The Sosy Retreat 2018 will be held at the Tryp Malaga Alameda Hotel (Avda de la Aurora, 31) in Malaga (Spain). The hotel is very well located: it is close to the harbor, the historic center, and the Picasso Museum.
+The Sosy Retreat 2018 will be held at the Tryp Malaga Alameda Hotel (Avda de la Aurora, 31) in Malaga (Spain). The hotel is very well located, being close to the harbor, the historic center, and the Picasso Museum.
 
 You can reach the venue from the Malaga Airport by:
 
@@ -14,7 +14,7 @@ You can reach the venue from the Malaga Airport by:
 
 ### Preparation
 
-Please, consult [this page](/preparation.md) for details about the preparation for the retreat
+Please, consult [this page](/preparation.md) for details about the preparation for the retreat.
 
 ### The Program Overview
 
@@ -40,4 +40,4 @@ Dinner at TBD
 
 ### Day 4 (ZEST)
 
-Friday is ZEST day, because most SEALs will be gone. The first session will be an introspection, in which internal organization is going to be discussed. Session 5 will be about actionable items, followed by the official closing.
+Friday is ZEST day, because most SEALs will be gone. The first session will be an introspection, in which internal organization is going to be discussed. Session 5 will be about actionable items, followed by the official closing. Contact [Alberto](mailto:bacchelli@ifi.uzh.ch) for futher details. 
