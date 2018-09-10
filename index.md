@@ -1,6 +1,6 @@
 ## Welcome to the Sosy Retreat 2018 Page
 
-In this page, you can find practical information about how to reach the venue of our retreat and our agenda.
+In this page, you can find practical information about how to reach the venue of our retreat, preparation for the retreat, and our agenda.
 
 ### Venue
 
@@ -41,3 +41,7 @@ Dinner at TBD
 ### Day 4 (ZEST)
 
 Friday is ZEST day, because most SEALs will be gone. The first session will be an introspection, in which internal organization is going to be discussed. Session 5 will be about actionable items, followed by the official closing. Contact [Alberto](mailto:bacchelli@ifi.uzh.ch) for futher details. 
+
+### Questions?
+
+Contact [Carmine](mailto:vassallo@ifi.uzh.ch).
