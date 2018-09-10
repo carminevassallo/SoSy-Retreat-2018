@@ -16,6 +16,10 @@ You can reach the venue from the Malaga Airport by:
 
 Please, consult [this page](/preparation.md) for details about the preparation for the retreat
 
+### The Program Overview
+
+![Image](/schedule.png)
+
 ### Day 1 (Setup)
 
 The “Setup” will take on the first day. Whoever is there (mostly SEALs) will start with a joined lunch before we kick-off the retreat with an initial warm-up session, in which we will ultimately design the session topics for the second day. To be fair towards all students, we decided that we don’t want to do a simple voting for the session topics, but we want to give everybody the opportunity to discuss his/her topics, so we will start by collecting all topic ideas and then do a fun card sorting exercise to find good session topics. People that are not yet around on Tuesday can submit their proposals before the retreat. Each session will be lead by some PhD students that have fitting topics.
@@ -37,41 +41,3 @@ Dinner at TBD
 ### Day 4 (ZEST)
 
 Friday is ZEST day, because most SEALs will be gone. The first session will be an introspection, in which internal organization is going to be discussed. Session 5 will be about actionable items, followed by the official closing.
-
-### The whole picture
-
-![Image](/schedule.png)
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carminevassallo/sosyretreat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with finding? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
