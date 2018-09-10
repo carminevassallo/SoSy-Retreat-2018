@@ -38,7 +38,7 @@ Dinner at [Restaurante Cavea](https://www.tripadvisor.com/Restaurant_Review-g187
 
 The third day will consist of several group discussions. We will start with a visionary session, in which we will brainstorm about future applications of ML/AI in SE. In the following session, we will synchronize on the upcoming project proposals to make sure that our topics do not overlap. After that, we will have a visibility session, in which Harald would like to share some thoughts about our representation to the outside. We will end the official part of the day with a preliminary closing for the SEALs and the social event.
 
-Dinner at TBD
+Dinner at [La Luz de Candela](https://www.tripadvisor.com/Restaurant_Review-g187438-d8291021-Reviews-La_Luz_de_Candela-Malaga_Costa_del_Sol_Province_of_Malaga_Andalucia.html)
 
 ### Day 4 (ZEST)
 
