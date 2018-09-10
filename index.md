@@ -42,7 +42,7 @@ Dinner at [La Luz de Candela](https://www.tripadvisor.com/Restaurant_Review-g187
 
 ### Day 4 (ZEST)
 
-Friday is ZEST day, because most SEALs will be gone. The first session will be an introspection, in which internal organization is going to be discussed. Session 5 will be about actionable items, followed by the official closing. Contact [Alberto](mailto:bacchelli@ifi.uzh.ch) for futher details. 
+Friday is ZEST day, because most SEALs will be gone. The first session will be an introspection, in which internal organization is going to be discussed. Session 5 will be about actionable items, followed by the official closing. Contact [Alberto](mailto:bacchelli@ifi.uzh.ch) for further details. 
 
 ### Questions?
 
