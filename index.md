@@ -6,11 +6,25 @@ In this page, you can find practical information about how to reach the venue of
 
 The Sosy Retreat 2018 will be held at the Tryp Malaga Alameda Hotel (Avda de la Aurora, 31) in Malaga (Spain). The hotel is very well located: it is close to the harbor, the historic center, and the Picasso Museum.
 
-### Day 1
+### Day 1 (Setup)
 
-### Day 2
+The “Setup” will take on the first day. Whoever is there (mostly SEALs) will start with a joined lunch before we kick-off the retreat with an initial warm-up session, in which we will ultimately design the session topics for the second day. To be fair towards all students, we decided that we don’t want to do a simple voting for the session topics, but we want to give everybody the opportunity to discuss his/her topics, so we will start by collecting all topic ideas and then do a fun card sorting exercise to find good session topics. People that are not yet around on Tuesday can submit their proposals before the retreat. Each session will be lead by some PhD students that have fitting topics.
 
-### Day 3
+Dinner: 
+
+### Day 2 (Break-out)
+
+The second day is “break-out” day. We will have four (more or less) consistent 90min sessions, which always follow the same structure. The assigned PhD students will introduce themselves and their work through short “lightning talks” (3min each) -- based on the card-sorting result, we will also propose 5-6 potential discussion topics. After that, we will have open break-out groups, i.e., we do not fix the group size, nor which topics to pick, and we will trust your self-organization to find the way that works best for you. After 60min, we will get back together and briefly summarize the individual group discussions (15min). The most important session of the day will start at 12:00 at the hotel pool (if available). Bring your swimming suit! :)
+
+Dinner at
+
+### Day 3 (Group discussion & Social)
+
+The third day will consist of several group discussions. We will start with a visionary session, in which we will brainstorm about future applications of ML/AI in SE. In the following session, we will synchronize on the upcoming project proposals to make sure that our topics do not overlap. After that, we will have a visibility session, in which Harald would like to share some thoughts about our representation to the outside. We will end the official part of the day with a preliminary closing for the SEALs and the social event.
+
+Dinner at TBD
+
+### Day 4 
 
 ### The whole picture
 
